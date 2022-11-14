@@ -1,0 +1,128 @@
+[
+    {
+        "title": "Dark Theme landing page",
+        "img_src": "images/Proyects img/dark theme landing page.png",
+        "lang_used": [
+            "HTML",
+            "CSS",
+            "JS"
+        ],
+        "links":{
+            "github": "https://github.com/LeonardoCarrasco/FrontEndMentor/tree/main/fylo-dark-theme-landing-page-master",
+            "deploy": "https://leonardocarrasco.github.io/FrontEndMentor/fylo-dark-theme-landing-page-master/index.html"
+        }
+    },
+
+    {
+        "title": "Advice Generator",
+        "img_src": "images/Proyects img/advice generator.png",
+        "lang_used": [
+            "HTML",
+            "CSS",
+            "JS",
+            "API"
+        ],
+        "links":{
+            "github": "https://github.com/LeonardoCarrasco/FrontEndMentor/tree/main/advice-generator-app-main",
+            "deploy": "https://leonardocarrasco.github.io/FrontEndMentor/advice-generator-app-main/index.html"
+        }
+    },
+
+    {
+        "title": "Time Tracking Dashboard",
+        "img_src": "images/Proyects img/time tracking dashboard.png",
+        "lang_used": [
+            "HTML",
+            "CSS",
+            "JS"
+        ],
+        "links":{
+            "github": "https://github.com/LeonardoCarrasco/FrontEndMentor/tree/main/time-tracking-dashboard-main",
+            "deploy": "https://leonardocarrasco.github.io/FrontEndMentor/time-tracking-dashboard-main/index.html"
+        }
+    },
+
+    {
+        "title": "POO Final Exam Work",
+        "img_src": "images/Proyects img/POO Final work.png",
+        "lang_used": [
+            "PHP",
+            "MYSQL"
+        ],
+        "links":{
+            "github": "https://github.com/LeonardoCarrasco/IPOO-Trabajo-Final",
+            "deploy": "#"
+        }
+    },
+
+    {
+        "title": "Re-Model Web Page ",
+        "img_src": "images/Proyects img/re model web page.png",
+        "lang_used": [
+            "HTML",
+            "CSS",
+            "JS",
+            "API"
+        ],
+        "links":{
+            "github": "https://github.com/LeonardoCarrasco/Re-Model-Flashband-Page/tree/master",
+            "deploy": "https://leonardocarrasco.github.io/Re-Model-Flashband-Page/"
+        }
+    },
+
+    {
+        "title": "Netflix Clone UI",
+        "img_src": "images/Proyects img/netflix clone UI.png",
+        "lang_used": [
+            "HTML",
+            "CSS"
+        ],
+        "links":{
+            "github": "https://github.com/LeonardoCarrasco/netflix-clone-roughly-",
+            "deploy": "https://leonardocarrasco.github.io/netflix-clone-roughly-/"
+        }
+    },
+
+    {
+        "title": "Intro Section",
+        "img_src": "images/Proyects img/intro section.png",
+        "lang_used": [
+            "HTML",
+            "CSS",
+            "JS"
+        ],
+        "links":{
+            "github": "https://github.com/LeonardoCarrasco/FrontEndMentor/tree/main/intro-section-with-dropdown-navigation-main",
+            "deploy": "https://leonardocarrasco.github.io/FrontEndMentor/intro-section-with-dropdown-navigation-main/index.html"
+        }
+    },
+
+    {
+        "title": "Sunnyside Landing Page",
+        "img_src": "images/Proyects img/Sunniside Landing page.png",
+        "lang_used": [
+            "HTML",
+            "CSS",
+            "JS"
+        ],
+        "links":{
+            "github": "https://github.com/LeonardoCarrasco/FrontEndMentor/tree/main/sunnyside-agency-landing-page-main",
+            "deploy": "https://leonardocarrasco.github.io/FrontEndMentor/sunnyside-agency-landing-page-main/index.html"
+        }
+    },
+
+    {
+        "title": "ToDo App",
+        "img_src": "images/Proyects img/todo app.png",
+        "lang_used": [
+            "HTML",
+            "CSS",
+            "JS"
+        ],
+        "links":{
+            "github": "https://github.com/LeonardoCarrasco/Todo-App.github.io",
+            "deploy": "https://leonardocarrasco.github.io/Todo-App.github.io/"
+        }
+    }
+
+]
