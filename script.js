@@ -1,4 +1,4 @@
-// here i goind to add (new) proyect card to show
+// here i goind to add (new) project card to show
 
 const card_container = document.querySelector(".card-container");
 
