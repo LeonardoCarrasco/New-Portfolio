@@ -306,7 +306,7 @@ img{
 }
 
 .card{
-    width: 22rem;
+    width: 20rem;
     margin: auto;
 }    
 
@@ -350,6 +350,10 @@ img{
 
 .container-img img{
     max-width: 300px;
+}
+
+.img-footer{
+    left: -20px;
 }
 
 @media screen and (max-width:992px){
@@ -413,4 +417,15 @@ img{
         background-size: 35vh;
     }
 
+    #CTA{
+        font-size: 14px;
+    }
+
+    #my-email{
+        font-size: 12px;
+    }
+
+    .card{
+        width: auto;
+    }
 }
